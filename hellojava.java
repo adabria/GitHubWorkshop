@@ -10,4 +10,6 @@ private int speed;\
 public Car(int speed)\{\
 this.speed=speed;\
 \}\
+Public void function()\{\
+\}\
 \}}

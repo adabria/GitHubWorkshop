@@ -7,4 +7,6 @@
 
 \f0\fs24 \cf0 int main()\{\
 	cout<<\'93Hello GitHub\'94;\
+	cout<<\'93enter your age quiz\'94;\
+	cin>>age;\
 return 0;}
